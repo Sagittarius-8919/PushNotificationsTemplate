@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:372070126088:android:8854f998cb8c8690aef7bd",
+        "mobilesdk_app_id": "1:372070126088:android:994ba9686c38d41baef7bd",
         "android_client_info": {
-          "package_name": "RN.PushNotifications"
+          "package_name": "com.rnpushnotifications"
         }
       },
       "oauth_client": [
