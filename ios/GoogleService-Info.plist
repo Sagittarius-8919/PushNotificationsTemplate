@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>372070126088-ovs55vd48mgs28fourdhrmoh357god1d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.372070126088-ovs55vd48mgs28fourdhrmoh357god1d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACgCMuR2Mc8DAI8Z8tS9bxdsj2mSrnt6I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>372070126088</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rmpushnotifications.app</string>
+	<key>PROJECT_ID</key>
+	<string>connections-app-9f91c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>connections-app-9f91c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:372070126088:ios:9610027c97553f91aef7bd</string>
+	<key>DATABASE_URL</key>
+	<string>https://connections-app-9f91c.firebaseio.com</string>
+</dict>
+</plist>
